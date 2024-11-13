@@ -2,7 +2,7 @@
     max-width: 100%;
     height: 100%;
     margin: auto;
-    --slide-height: 100vh;
+    --slide-height: 100dvh;
     --slide-spacing: 0rem;
     --slide-size: 100%;
   }

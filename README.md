@@ -20,11 +20,27 @@ A **Lookbook** is a way to showcase looks to a user.
 
 2. User can swipe up/down for next/prev look.
 
+### Like/Dislike
+
+1. User can like or dislike certain product.
+
+### Share Product
+
+1. User can also share a product by clicking share icon on each product.
+
 ## Libraries Used
 
 - Embla Carusel
 - Tailwind CSS
 - Lucid React Icons
+
+## Demo Video
+
+https://github.com/user-attachments/assets/37e19333-3705-44d9-b2ce-4efb7786a957
+
+## Deployed URL
+
+https://lookbook-armaan.vercel.app/
 
 ## Installation and Setup
 
@@ -40,3 +56,4 @@ A **Lookbook** is a way to showcase looks to a user.
    ```bash
    npm start
    ```
+
